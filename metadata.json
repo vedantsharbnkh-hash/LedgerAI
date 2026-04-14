@@ -1,0 +1,6 @@
+{
+  "name": "LedgerAI - Expert OCR Accounting",
+  "description": "AI-powered OCR tool for Chartered Accountants to process messy shop diaries and informal bills into Tally-ready JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "transactions": [
+    {
+      "voucher_type": "Payment",
+      "debit_ledger": "Cleaning Expenses A/c",
+      "credit_ledger": "Cash A/c",
+      "amount": 200,
+      "narration": "Being cash paid for cleaning expenses.",
+      "original_rough_text": "Subah dukan khulte hi 200 rs safai wale ko cash diye.",
+      "date": null
+    },
+    {
+      "voucher_type": "Sales",
+      "debit_ledger": "Cash A/c",
+      "credit_ledger": "Sales A/c",
+      "amount": 800,
+      "narration": "Being goods (A4 paper and pen) sold for cash.",
+      "original_rough_text": "Dophar me ek customer 800 rs ka A4 paper aur pen cash me le gaya.",
+      "date": null
+    },
+    {
+      "voucher_type": "Contra",
+      "debit_ledger": "SBI Bank A/c",
+      "credit_ledger": "Cash A/c",
+      "amount": 2000,
+      "narration": "Being cash deposited into SBI Bank.",
+      "original_rough_text": "Sham ko galle se 2000 nikal ke SBI bank me jama kiye.",
+      "date": null
+    },
+    {
+      "voucher_type": "Purchase",
+      "debit_ledger": "Purchase A/c",
+      "credit_ledger": "Sharma Ji A/c",
+      "amount": 8500,
+      "narration": "Being stationary stock purchased on credit from Sharma ji.",
+      "original_rough_text": "Bhopal wale distributor Sharma ji se 8500 ka stationary ka naya stock udhaar par kharida.",
+      "date": null
+    }
+  ],
+  "error_message": null
+}
